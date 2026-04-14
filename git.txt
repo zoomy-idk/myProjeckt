@@ -1,4 +1,4 @@
-git init - для инициализации репозитория
+﻿git init - для инициализации репозитория
 git status - посмотреть статус
 
 {
@@ -15,3 +15,10 @@ git pull - подтянуть обновленные данные с GitHub
 {
 ssh-keygen - создание ssh ключа для подключения к GitHub
 }
+
+git branch (name branch) - создать новую ветку
+git checkout (name branch) - перейти на другую ветку
+git branch -d (name branch) - удалить ветку
+git checkout -b (name branch) - создать ветку, и сразу в нее перейти
+
+git merge (name branch) -  слияние веток
