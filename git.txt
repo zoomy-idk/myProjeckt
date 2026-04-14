@@ -22,3 +22,5 @@ git branch -d (name branch) - удалить ветку
 git checkout -b (name branch) - создать ветку, и сразу в нее перейти
 
 git merge (name branch) -  слияние веток
+
+git commit --amend - зайти в редактор, чтобы изменить коммит
