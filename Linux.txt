@@ -3,3 +3,11 @@ final test
 NEW LINES FOR MERGE
 
 THE END
+
+
+NEW line
+
+if line == "lines":
+	print("Hello world")
+else:
+	print("Goodbye world")
